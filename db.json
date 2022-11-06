@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "name": "Bolinha",
+      "budget": "999",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 100,
+      "services": [
+        {
+          "name": "teste5",
+          "cost": "100",
+          "description": "Aquiteste",
+          "id": "b79db701-89a9-4c5b-b002-4adb651e0b05"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Guilherme",
+      "budget": "300",
+      "category": {
+        "id": "3",
+        "name": "Desing"
+      },
+      "cost": 100,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "100",
+          "description": "teste",
+          "id": "823864e3-ba7e-4a2d-822d-9097f5fe9ef8"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Desing"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
