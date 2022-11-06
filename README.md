@@ -1,4 +1,21 @@
+# For runing backend use the comanda npm run backend 
+For this project we used a JSON Database.\
+React Router Dom
+Styled components
+React icons
+Json-Server
+
+#LIVE VERSION https://inquisitive-froyo-52aca9.netlify.app/
+
+![Costs1](https://user-images.githubusercontent.com/99232940/200182434-c6dfca32-857b-4692-96a1-96b34ab8a5d4.PNG) .\
+![Costs2](https://user-images.githubusercontent.com/99232940/200182438-274cf580-9255-4e2a-9045-51786c6c82dd.PNG) .\
+![Costs3](https://user-images.githubusercontent.com/99232940/200182443-e41a70cf-997e-4c3c-a967-a25a39e94c7e.PNG) .\
+
+
+
 # Getting Started with Create React App
+
+#RUN NPM INSTALL FIRTS TO INSTALL THE NODE MODULES
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
